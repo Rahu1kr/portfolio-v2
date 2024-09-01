@@ -271,7 +271,7 @@ class DynamicValues {
         },
         {
           title: "Authentication",
-          link: "auth-mauve-six.vercel.app",
+          link: "https://auth-mauve-six.vercel.app",
           logo: "./img/user-authentication.png",
           desc: "Authentication Website is a dedicated platform that handles user authentication processes, including registration, login, password recovery, and user verification. ",
         },
