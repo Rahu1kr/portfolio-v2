@@ -669,7 +669,7 @@ class DynamicValues {
           title: "Email",
           logo: "https://cdn3d.iconscout.com/3d/premium/thumb/email-address-4437044-3684811.png",
           desc: "krahulr12345@gmail.com",
-          link: "krahulr12345@gmail.com",
+          link: "mailto:krahulr12345@gmail.com",
         },
         {
           title: "Telegram",
