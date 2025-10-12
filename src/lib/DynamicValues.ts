@@ -35,7 +35,7 @@ class DynamicValues {
         },
         {
           title: "Work Experience",
-          desc: "Fresher",
+          desc: "4 Years",
           logo: "https://cdn-icons-png.flaticon.com/128/3281/3281289.png",
         },
         {
@@ -48,29 +48,29 @@ class DynamicValues {
           desc: "Indian",
           logo: "https://img.icons8.com/?size=100&id=HgrhrvtEzvc1&format=png&color=000000",
         },
-        {
-          title: "Resume",
-          desc: "Click the link icon to view/download",
-          link: "https://drive.google.com/file/d/1atxq4o7qAp20NE4Pfr5J-0WafpcXuBna/view?usp=drive_link",
-          logo: "https://cdn-icons-png.flaticon.com/128/909/909212.png",
-        },
+        // {
+        //   title: "Resume",
+        //   desc: "Click the link icon to view/download",
+        //   link: "https://drive.google.com/file/d/1atxq4o7qAp20NE4Pfr5J-0WafpcXuBna/view?usp=drive_link",
+        //   logo: "https://cdn-icons-png.flaticon.com/128/909/909212.png",
+        // },
       ],
     },
-    {
-      text: "Experiences",
-      arr: [
-        {
-          title: "Salesqueen Software Solutions",
-          desc: "Front End Developer (May-Aug)",
-          logo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEzI3C/X5SvK3C6ezTr97yDp5yau0zWs1jfi6ii93TLslCTyiyPfgCnjoAAoLo+9UVLzWCL0ZSH1cyD1eyD4ZBsoLY4mJX8nJ4MYLZX2gx/3ix4fLZIqKocfGW0cFWYtMJEULJQlInwdF2kiH3YbFGQcFmf3dBobFGQfGm0iH3UbFGQrLIsbFGQbFGQbFGQuMZIhHnT8YME6AAAAMnRSTlMAPLaM///6ZLbCu5mbmiJwX/////9ykAz/6v//rP9Knf++6yD/cLxc//8z691ehc742nKfoC4AAAFoSURBVHgBXIa1AYAADATjnv3HRSu4V3hBYkRkEVEzdkQPhy+ZRBURdE1dx+FHz0w/7NkYfSAoDEJBAJ0D2Fs6ZCUQFiWu97/ckrEFto7d/xyQMAvEWa7W681mu9vtttvNZr3eHxAly4tVmJdVVVLs60ZEQOZtsdruRhDEZv/WNkdMorq8DYIgLBLmbdPpCTABBNHvyrGgr9sR2Ow5F+8ES/TjJnu4G5BPcCI4A9hvwxyoCawCA28JHELm4xzZDZhHAUEdHQuBdfwwWIIM05wJLqyzBEtEcQTWA5AEZySpCU6AsgQuBRmB1Q8gfgDixyUOBOMuFUHukoKGgMWGoE4KXn8TLj0HHiWBAGMIDlEBAQtCHMFHVEDw3NfldrEmBQQsYES6hCOY/OLa5W+YRgRgpp+7I+Ism/j0rwpJDgZ/ROGfybyGzoSG19p577RXg/e8ay0GBWVkZsII3ggvtYEW0jkzKCmdlxKfYBM77RC96kYAAAAASUVORK5CYII=",
-        },
-        {
-          title: "TripFox",
-          desc: "Full Stack Developer (Feb-Apr)",
-          logo: "https://assets.travclan.com/unsafe/0x100/smart/https://s3.ap-south-1.amazonaws.com/com.travclan.b2b2c/logo/15410/1719062112.412017/0.6234276049652469/tripfox_logo.jpg",
-        },
-      ],
-    },
+    // {
+    //   text: "Experiences",
+    //   arr: [
+    //     {
+    //       title: "Salesqueen Software Solutions",
+    //       desc: "Front End Developer (May-Aug)",
+    //       logo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAllBMVEVHcEzI3C/X5SvK3C6ezTr97yDp5yau0zWs1jfi6ii93TLslCTyiyPfgCnjoAAoLo+9UVLzWCL0ZSH1cyD1eyD4ZBsoLY4mJX8nJ4MYLZX2gx/3ix4fLZIqKocfGW0cFWYtMJEULJQlInwdF2kiH3YbFGQcFmf3dBobFGQfGm0iH3UbFGQrLIsbFGQbFGQbFGQuMZIhHnT8YME6AAAAMnRSTlMAPLaM///6ZLbCu5mbmiJwX/////9ykAz/6v//rP9Knf++6yD/cLxc//8z691ehc742nKfoC4AAAFoSURBVHgBXIa1AYAADATjnv3HRSu4V3hBYkRkEVEzdkQPhy+ZRBURdE1dx+FHz0w/7NkYfSAoDEJBAJ0D2Fs6ZCUQFiWu97/ckrEFto7d/xyQMAvEWa7W681mu9vtttvNZr3eHxAly4tVmJdVVVLs60ZEQOZtsdruRhDEZv/WNkdMorq8DYIgLBLmbdPpCTABBNHvyrGgr9sR2Ow5F+8ES/TjJnu4G5BPcCI4A9hvwxyoCawCA28JHELm4xzZDZhHAUEdHQuBdfwwWIIM05wJLqyzBEtEcQTWA5AEZySpCU6AsgQuBRmB1Q8gfgDixyUOBOMuFUHukoKGgMWGoE4KXn8TLj0HHiWBAGMIDlEBAQtCHMFHVEDw3NfldrEmBQQsYES6hCOY/OLa5W+YRgRgpp+7I+Ism/j0rwpJDgZ/ROGfybyGzoSG19p577RXg/e8ay0GBWVkZsII3ggvtYEW0jkzKCmdlxKfYBM77RC96kYAAAAASUVORK5CYII=",
+    //     },
+    //     {
+    //       title: "TripFox",
+    //       desc: "Full Stack Developer (Feb-Apr)",
+    //       logo: "https://assets.travclan.com/unsafe/0x100/smart/https://s3.ap-south-1.amazonaws.com/com.travclan.b2b2c/logo/15410/1719062112.412017/0.6234276049652469/tripfox_logo.jpg",
+    //     },
+    //   ],
+    // },
   ];
 
   static skills: Array<ITitledListItem> = [
